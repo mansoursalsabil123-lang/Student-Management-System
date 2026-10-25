@@ -5,9 +5,24 @@ A simple **Student Management System** developed using Python and Tkinter. This 
 ## ✨ Features
 
 - **Login System:** Access the application using administrator credentials.
+
+<img width="626" height="417" alt="login" src="https://github.com/user-attachments/assets/06d21f74-126f-440c-938b-f8360960dd0c" />
+  
 - **Add Students:** Register students with their name, grade, and department.
+
+<img width="632" height="421" alt="add student" src="https://github.com/user-attachments/assets/5d448fa5-6471-4710-b1b0-9750bca651cc" />
+
+  
 - **View Students:** Display the list of registered students and their information.
+
+<img width="630" height="407" alt="student list" src="https://github.com/user-attachments/assets/3cbf879c-eda8-42e7-b4ae-ef8e0e4776a8" />
+
+
 - **Grade Statistics:** Calculate the number of students, highest grade, lowest grade, and average grade.
+
+<img width="627" height="661" alt="statistics" src="https://github.com/user-attachments/assets/d9342ffa-1f12-4f60-b7dd-e130ada52ef2" />
+
+
 - **Logout:** Exit the dashboard and return to the login page.
 - **Input Validation:** Check that required fields are filled in and grades are between 0 and 20.
 
